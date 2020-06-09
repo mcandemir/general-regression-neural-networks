@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4292d0cf-5e64-4e80-b282-0231a4192bec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/grnn3_backend.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LEARNTK.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/GRNN.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1cPFW6D2v7KpT5KY3Fkht4QVRP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.GRNN (1)">
+    <configuration name="GRNN (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3-Kod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GRNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GRNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3-Kod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mhmtc\OneDrive\Desktop\CENGA-WORK\CENGA AI PROJECT TEAM\3-Kod\GRNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grnn2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3-Kod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grnn2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grnn3_backend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3-Kod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\mhmtc\OneDrive\Desktop\CENGA-WORK\CENGA AI PROJECT TEAM\3-Kod\grnn3_backend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="3-Kod" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GRNN (1)" />
+        <item itemvalue="Python.GRNN" />
+        <item itemvalue="Python.grnn3_backend" />
+        <item itemvalue="Python.utility" />
+        <item itemvalue="Python.grnn2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4292d0cf-5e64-4e80-b282-0231a4192bec" name="Default Changelist" comment="" />
+      <created>1590422349538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590422349538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="143" key="#Inspections" timestamp="1590751057006">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="419" y="115" key="#Inspections/0.0.1855.1080@0.0.1855.1080" timestamp="1590428300840" />
+    <state x="525" y="143" key="#Inspections/0.0.1857.1080@0.0.1857.1080" timestamp="1590751057006" />
+    <state x="596" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590801690447">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="596" y="228" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1590801690447" />
+    <state x="279" y="472" key="#xdebugger.XInspectDialog" timestamp="1591706965248">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="279" y="472" key="#xdebugger.XInspectDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1591706965248" />
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog" timestamp="1591708827671">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="92" y="92" width="1674" height="896" key="DiffContextDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1591708827671" />
+    <state x="658" y="238" key="FileChooserDialogImpl" timestamp="1590794836018">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="658" y="238" key="FileChooserDialogImpl/0.0.1857.1080@0.0.1857.1080" timestamp="1590794836018" />
+    <state width="1831" height="256" key="GridCell.Tab.0.bottom" timestamp="1591716203067">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1828" height="134" key="GridCell.Tab.0.bottom/0.0.1855.1080@0.0.1855.1080" timestamp="1590441400414" />
+    <state width="1830" height="36" key="GridCell.Tab.0.bottom/0.0.1857.1080@0.0.1857.1080" timestamp="1591404797254" />
+    <state width="1831" height="256" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1591716203067" />
+    <state width="1831" height="256" key="GridCell.Tab.0.center" timestamp="1591716203067">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1828" height="134" key="GridCell.Tab.0.center/0.0.1855.1080@0.0.1855.1080" timestamp="1590441400413" />
+    <state width="1830" height="36" key="GridCell.Tab.0.center/0.0.1857.1080@0.0.1857.1080" timestamp="1591404797254" />
+    <state width="1831" height="256" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1591716203067" />
+    <state width="1831" height="256" key="GridCell.Tab.0.left" timestamp="1591716203067">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1828" height="134" key="GridCell.Tab.0.left/0.0.1855.1080@0.0.1855.1080" timestamp="1590441400413" />
+    <state width="1830" height="36" key="GridCell.Tab.0.left/0.0.1857.1080@0.0.1857.1080" timestamp="1591404797254" />
+    <state width="1831" height="256" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1591716203066" />
+    <state width="1831" height="256" key="GridCell.Tab.0.right" timestamp="1591716203067">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1828" height="134" key="GridCell.Tab.0.right/0.0.1855.1080@0.0.1855.1080" timestamp="1590441400413" />
+    <state width="1830" height="36" key="GridCell.Tab.0.right/0.0.1857.1080@0.0.1857.1080" timestamp="1591404797254" />
+    <state width="1831" height="256" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1591716203067" />
+    <state width="1831" height="500" key="GridCell.Tab.1.bottom" timestamp="1591715112595">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1830" height="500" key="GridCell.Tab.1.bottom/0.0.1857.1080@0.0.1857.1080" timestamp="1590955765271" />
+    <state width="1831" height="500" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1591715112595" />
+    <state width="1831" height="500" key="GridCell.Tab.1.center" timestamp="1591715112595">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1830" height="500" key="GridCell.Tab.1.center/0.0.1857.1080@0.0.1857.1080" timestamp="1590955765271" />
+    <state width="1831" height="500" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1591715112595" />
+    <state width="1831" height="500" key="GridCell.Tab.1.left" timestamp="1591715112595">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1830" height="500" key="GridCell.Tab.1.left/0.0.1857.1080@0.0.1857.1080" timestamp="1590955765271" />
+    <state width="1831" height="500" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1591715112595" />
+    <state width="1831" height="500" key="GridCell.Tab.1.right" timestamp="1591715112595">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1830" height="500" key="GridCell.Tab.1.right/0.0.1857.1080@0.0.1857.1080" timestamp="1590955765271" />
+    <state width="1831" height="500" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1591715112595" />
+    <state width="937" height="548" key="XDebugger.FullValuePopup" timestamp="1591712028213">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="937" height="548" key="XDebugger.FullValuePopup/0.0.1857.1080@0.0.1857.1080" timestamp="1590950864764" />
+    <state width="937" height="548" key="XDebugger.FullValuePopup/0.0.1858.1080@0.0.1858.1080" timestamp="1591712028213" />
+    <state x="559" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1591716627749">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="558" y="322" key="com.intellij.ide.util.TipDialog/0.0.1855.1080@0.0.1855.1080" timestamp="1590422353856" />
+    <state x="559" y="322" key="com.intellij.ide.util.TipDialog/0.0.1857.1080@0.0.1857.1080" timestamp="1591192440576" />
+    <state x="559" y="322" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1591716627749" />
+    <state x="508" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1590947806017">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="508" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1857.1080@0.0.1857.1080" timestamp="1590947806017" />
+    <state x="508" y="45" width="840" height="1034" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1590651943821" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/GRNN.py</url>
+          <line>586</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.train_set" language="Python" />
+        <watch expression="self.test_set" language="Python" />
+        <watch expression="X_train" language="Python" />
+        <watch expression="X_test" language="Python" />
+        <watch expression="Y_train" language="Python" />
+        <watch expression="Y_test" language="Python" />
+        <watch expression="self.optimum_sigma" language="Python" />
+        <watch expression="self.hiddenlayer" language="Python" />
+        <watch expression="eucd" language="Python" />
+        <watch expression="num" language="Python" />
+        <watch expression="denom" language="Python" />
+        <watch expression="self.final_output" language="Python" />
+        <watch expression="self.final_output_train" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
