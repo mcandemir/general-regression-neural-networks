@@ -1,6 +1,6 @@
 <h1>GRNN</h1>
 
-A simple program that predicts continuous values output by using a technique call General Regression Neural Networks
+A simple program that predicts continuous values output by using an old architecture called General Regression Neural Networks
 <br>
 
 
